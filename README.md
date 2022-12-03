@@ -9,10 +9,10 @@ Frontend Mentor challenges help me improve my coding skills by building realisti
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Models & my works](#models--my-works)
-- [Desktop version:](#desktop-version)
-- [Mobile version](#mobile-version)
-- [Active states version](#active-states-version)
+    - [Models \& my works](#models--my-works)
+      - [Desktop version](#desktop-version)
+      - [Mobile version](#mobile-version)
+      - [Active states version](#active-states-version)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -30,40 +30,28 @@ Users should be able to:
 
 ### Models & my works
 
-# Desktop version:
+#### Desktop version
 
-Model:
+| Model   | ![desktop version](/assets/design/desktop-design.jpg)           |
+| ------- | --------------------------------------------------------------- |
+| My work | ![desktop version](/assets/my-work/my-work-desktop-version.png) |
 
-![desktop version](/assets/design/desktop-design.jpg)
+#### Mobile version
 
-My work:
+| Model                                               | My work                                                       |
+| --------------------------------------------------- | ------------------------------------------------------------- |
+| ![mobile version](/assets/design/mobile-design.jpg) | ![mobile version](/assets/my-work/my-work-mobile-version.png) |
 
-![desktop version](/assets/my-work/my-work-desktop-version.png)
+#### Active states version
 
-# Mobile version
-
-Model:
-
-![mobile version](/assets/design/mobile-design.jpg)
-
-My work:
-
-![mobile version](/assets/my-work/my-work-mobile-version.png)
-
-# Active states version
-
-Model:
-
-![Active states version](/assets/design/active-states.jpg)
-
-My work:
-
-![Active states version](/assets/my-work/my-work-active-states-version.png)
+| Model   | ![Active states version](/assets/design/active-states.jpg)                  |
+| ------- | --------------------------------------------------------------------------- |
+| My work | ![Active states version](/assets/my-work/my-work-active-states-version.png) |
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/ClaireKarsenti/Frontend-Mentor-Solution-Product-Preview-Card-Component)
-- Live Site URL: [GitHub Pages Live URL](https://clairekarsenti.github.io/Frontend-Mentor-Solution-Product-Preview-Card-Component/)
+- Solution URL: [Code on GitHub](https://github.com/ClaireKarsenti/Product-Preview-Card-Component)
+- Live Site URL: [GitHub Pages Live URL](https://clairekarsenti.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
@@ -81,4 +69,4 @@ This challenge allowed me to deepen my knowledge and confirm my skills in HTML, 
 ## Author
 
 - Linkedin - [Claire Karsenti](https://www.linkedin.com/in/claire-karsenti/)
-- Frontend Mentor - [@ClaireKarsent](https://www.frontendmentor.io/profile/ClaireKarsenti)
+- Frontend Mentor - [@ClaireKarsenti](https://www.frontendmentor.io/profile/ClaireKarsenti)
